@@ -1,0 +1,14 @@
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\bin\Debug\net7.0\EmpresaExercicio.exe
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\bin\Debug\net7.0\EmpresaExercicio.deps.json
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\bin\Debug\net7.0\EmpresaExercicio.runtimeconfig.json
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\bin\Debug\net7.0\EmpresaExercicio.dll
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\bin\Debug\net7.0\EmpresaExercicio.pdb
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\EmpresaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\EmpresaExercicio.AssemblyInfoInputs.cache
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\EmpresaExercicio.AssemblyInfo.cs
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\EmpresaExercicio.csproj.CoreCompileInputs.cache
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\EmpresaExercicio.dll
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\refint\EmpresaExercicio.dll
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\EmpresaExercicio.pdb
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\EmpresaExercicio.genruntimeconfig.cache
+C:\Heitor\EmpresaExercicio\EmpresaExercicio\obj\Debug\net7.0\ref\EmpresaExercicio.dll

@@ -1,0 +1,14 @@
+C:\Heitor\ExListClasse\ExListClasse\bin\Debug\net7.0\ExListClasse.exe
+C:\Heitor\ExListClasse\ExListClasse\bin\Debug\net7.0\ExListClasse.deps.json
+C:\Heitor\ExListClasse\ExListClasse\bin\Debug\net7.0\ExListClasse.runtimeconfig.json
+C:\Heitor\ExListClasse\ExListClasse\bin\Debug\net7.0\ExListClasse.dll
+C:\Heitor\ExListClasse\ExListClasse\bin\Debug\net7.0\ExListClasse.pdb
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ExListClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ExListClasse.AssemblyInfoInputs.cache
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ExListClasse.AssemblyInfo.cs
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ExListClasse.csproj.CoreCompileInputs.cache
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ExListClasse.dll
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\refint\ExListClasse.dll
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ExListClasse.pdb
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ExListClasse.genruntimeconfig.cache
+C:\Heitor\ExListClasse\ExListClasse\obj\Debug\net7.0\ref\ExListClasse.dll

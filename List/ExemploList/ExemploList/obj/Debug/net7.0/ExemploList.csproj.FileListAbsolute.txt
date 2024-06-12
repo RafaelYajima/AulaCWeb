@@ -1,0 +1,14 @@
+C:\Heitor\ExemploList\ExemploList\bin\Debug\net7.0\ExemploList.exe
+C:\Heitor\ExemploList\ExemploList\bin\Debug\net7.0\ExemploList.deps.json
+C:\Heitor\ExemploList\ExemploList\bin\Debug\net7.0\ExemploList.runtimeconfig.json
+C:\Heitor\ExemploList\ExemploList\bin\Debug\net7.0\ExemploList.dll
+C:\Heitor\ExemploList\ExemploList\bin\Debug\net7.0\ExemploList.pdb
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ExemploList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ExemploList.AssemblyInfoInputs.cache
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ExemploList.AssemblyInfo.cs
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ExemploList.csproj.CoreCompileInputs.cache
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ExemploList.dll
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\refint\ExemploList.dll
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ExemploList.pdb
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ExemploList.genruntimeconfig.cache
+C:\Heitor\ExemploList\ExemploList\obj\Debug\net7.0\ref\ExemploList.dll

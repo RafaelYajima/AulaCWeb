@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8/d++lxAT1uZvCuXayZ1yBHH0C73PRD/h3nGFFEJIzEWSiNuna2M1RRL2G/++Oh0eSpZIYuf2UywTeEyzdY6A==",
+  "success": true,
+  "projectFilePath": "C:\\Heitor\\ExemploList\\ExemploList\\ExemploList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Instrutor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Instrutor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Instrutor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Instrutor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
