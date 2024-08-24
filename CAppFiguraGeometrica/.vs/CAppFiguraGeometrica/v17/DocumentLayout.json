@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Heitor\\CAppFiguraGeometrica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|c:\\heitor\\cappfigurageometrica\\cappfigurageometrica\\figurageo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|solutionrelative:cappfigurageometrica\\figurageo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|C:\\Heitor\\CAppFiguraGeometrica\\cappfigurageometrica\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|solutionrelative:cappfigurageometrica\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|C:\\Heitor\\CAppFiguraGeometrica\\cappfigurageometrica\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|solutionrelative:cappfigurageometrica\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|C:\\Heitor\\CAppFiguraGeometrica\\cappfigurageometrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551F60C-A8C5-4B6A-8A43-DA9342BDF5A8}|CAppFiguraGeometrica\\CAppFiguraGeometrica.csproj|solutionrelative:cappfigurageometrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiguraGeo.cs",
+              "DocumentMoniker": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\FiguraGeo.cs",
+              "RelativeDocumentMoniker": "CAppFiguraGeometrica\\FiguraGeo.cs",
+              "ToolTip": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\FiguraGeo.cs",
+              "RelativeToolTip": "CAppFiguraGeometrica\\FiguraGeo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:16:31.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\Retangulo.cs",
+              "RelativeDocumentMoniker": "CAppFiguraGeometrica\\Retangulo.cs",
+              "ToolTip": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\Retangulo.cs",
+              "RelativeToolTip": "CAppFiguraGeometrica\\Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:15:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\Triangulo.cs",
+              "RelativeDocumentMoniker": "CAppFiguraGeometrica\\Triangulo.cs",
+              "ToolTip": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\Triangulo.cs",
+              "RelativeToolTip": "CAppFiguraGeometrica\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:21:55.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\Program.cs",
+              "RelativeDocumentMoniker": "CAppFiguraGeometrica\\Program.cs",
+              "ToolTip": "C:\\Heitor\\CAppFiguraGeometrica\\CAppFiguraGeometrica\\Program.cs",
+              "RelativeToolTip": "CAppFiguraGeometrica\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:39:21.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

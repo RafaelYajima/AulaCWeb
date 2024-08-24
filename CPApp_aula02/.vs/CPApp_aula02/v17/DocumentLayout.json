@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Heitor\\CPApp_aula02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79788961-F216-4A3E-B590-0FF6FA1C06C3}|CPApp_aula02\\CPApp_aula02.csproj|C:\\Heitor\\CPApp_aula02\\cpapp_aula02\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79788961-F216-4A3E-B590-0FF6FA1C06C3}|CPApp_aula02\\CPApp_aula02.csproj|solutionrelative:cpapp_aula02\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79788961-F216-4A3E-B590-0FF6FA1C06C3}|CPApp_aula02\\CPApp_aula02.csproj|c:\\heitor\\cpapp_aula02\\cpapp_aula02\\testacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79788961-F216-4A3E-B590-0FF6FA1C06C3}|CPApp_aula02\\CPApp_aula02.csproj|solutionrelative:cpapp_aula02\\testacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79788961-F216-4A3E-B590-0FF6FA1C06C3}|CPApp_aula02\\CPApp_aula02.csproj|C:\\Heitor\\CPApp_aula02\\cpapp_aula02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79788961-F216-4A3E-B590-0FF6FA1C06C3}|CPApp_aula02\\CPApp_aula02.csproj|solutionrelative:cpapp_aula02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestaCliente.cs",
+              "DocumentMoniker": "C:\\Heitor\\CPApp_aula02\\CPApp_aula02\\TestaCliente.cs",
+              "RelativeDocumentMoniker": "CPApp_aula02\\TestaCliente.cs",
+              "ToolTip": "C:\\Heitor\\CPApp_aula02\\CPApp_aula02\\TestaCliente.cs",
+              "RelativeToolTip": "CPApp_aula02\\TestaCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:21:25.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Heitor\\CPApp_aula02\\CPApp_aula02\\Cliente.cs",
+              "RelativeDocumentMoniker": "CPApp_aula02\\Cliente.cs",
+              "ToolTip": "C:\\Heitor\\CPApp_aula02\\CPApp_aula02\\Cliente.cs*",
+              "RelativeToolTip": "CPApp_aula02\\Cliente.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:55:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Heitor\\CPApp_aula02\\CPApp_aula02\\Program.cs",
+              "RelativeDocumentMoniker": "CPApp_aula02\\Program.cs",
+              "ToolTip": "C:\\Heitor\\CPApp_aula02\\CPApp_aula02\\Program.cs",
+              "RelativeToolTip": "CPApp_aula02\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:52:22.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

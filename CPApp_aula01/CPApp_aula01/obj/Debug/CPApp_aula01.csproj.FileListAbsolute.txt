@@ -1,0 +1,7 @@
+C:\Heitor\CPApp_aula01\CPApp_aula01\bin\Debug\CPApp_aula01.exe.config
+C:\Heitor\CPApp_aula01\CPApp_aula01\bin\Debug\CPApp_aula01.exe
+C:\Heitor\CPApp_aula01\CPApp_aula01\bin\Debug\CPApp_aula01.pdb
+C:\Heitor\CPApp_aula01\CPApp_aula01\obj\Debug\CPApp_aula01.csproj.AssemblyReference.cache
+C:\Heitor\CPApp_aula01\CPApp_aula01\obj\Debug\CPApp_aula01.csproj.CoreCompileInputs.cache
+C:\Heitor\CPApp_aula01\CPApp_aula01\obj\Debug\CPApp_aula01.exe
+C:\Heitor\CPApp_aula01\CPApp_aula01\obj\Debug\CPApp_aula01.pdb

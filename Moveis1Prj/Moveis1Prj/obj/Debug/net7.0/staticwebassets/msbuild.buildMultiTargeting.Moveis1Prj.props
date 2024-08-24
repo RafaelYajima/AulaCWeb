@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Moveis1Prj.props" />
+</Project>

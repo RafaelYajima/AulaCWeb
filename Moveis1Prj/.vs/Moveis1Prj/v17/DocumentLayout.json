@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Heitor\\Moveis1Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|c:\\heitor\\moveis1prj\\moveis1prj\\controllers\\moveiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EC8BF-E624-449A-9A85-9CCC898DF7B4}|Moveis1Prj\\Moveis1Prj.csproj|solutionrelative:moveis1prj\\controllers\\moveiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Moveis1Prj\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T20:25:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Models\\Usuario.cs",
+              "RelativeToolTip": "Moveis1Prj\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:24:55.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Moveis1Prj\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T20:23:05.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Program.cs",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Program.cs",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Program.cs",
+              "RelativeToolTip": "Moveis1Prj\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:20:58.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Login.cshtml",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Shared\\_Login.cshtml",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Views\\Shared\\_Login.cshtml",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Shared\\_Login.cshtml",
+              "RelativeToolTip": "Moveis1Prj\\Views\\Shared\\_Login.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T20:20:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Moveis1Prj\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:19:46.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Moveis1Prj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T20:19:03.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveisController.cs",
+              "DocumentMoniker": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Controllers\\MoveisController.cs",
+              "RelativeDocumentMoniker": "Moveis1Prj\\Controllers\\MoveisController.cs",
+              "ToolTip": "C:\\Heitor\\Moveis1Prj\\Moveis1Prj\\Controllers\\MoveisController.cs",
+              "RelativeToolTip": "Moveis1Prj\\Controllers\\MoveisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:17:10.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

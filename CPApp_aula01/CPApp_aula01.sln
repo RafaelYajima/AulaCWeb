@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPApp_aula01", "CPApp_aula01\CPApp_aula01.csproj", "{144E7657-E3E3-4F45-9131-D93BD2E840BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFApp_aula01", "WFApp_aula01\WFApp_aula01.csproj", "{B32A6BE6-BCBF-4F40-AC3D-9963EF145AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144E7657-E3E3-4F45-9131-D93BD2E840BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144E7657-E3E3-4F45-9131-D93BD2E840BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144E7657-E3E3-4F45-9131-D93BD2E840BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144E7657-E3E3-4F45-9131-D93BD2E840BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32A6BE6-BCBF-4F40-AC3D-9963EF145AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32A6BE6-BCBF-4F40-AC3D-9963EF145AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32A6BE6-BCBF-4F40-AC3D-9963EF145AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32A6BE6-BCBF-4F40-AC3D-9963EF145AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41C3718D-AD37-4B1C-AA03-7E49AE58477F}
+	EndGlobalSection
+EndGlobal

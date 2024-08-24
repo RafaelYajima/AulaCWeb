@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Heitor\\MaquinasPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B17AA08-5522-40DB-B2C9-37EE636DB3A5}|MaquinasPrj\\MaquinasPrj.csproj|c:\\heitor\\maquinasprj\\maquinasprj\\frmsetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B17AA08-5522-40DB-B2C9-37EE636DB3A5}|MaquinasPrj\\MaquinasPrj.csproj|solutionrelative:maquinasprj\\frmsetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B17AA08-5522-40DB-B2C9-37EE636DB3A5}|MaquinasPrj\\MaquinasPrj.csproj|c:\\heitor\\maquinasprj\\maquinasprj\\frmsetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B17AA08-5522-40DB-B2C9-37EE636DB3A5}|MaquinasPrj\\MaquinasPrj.csproj|solutionrelative:maquinasprj\\frmsetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSetor.cs",
+              "DocumentMoniker": "C:\\Heitor\\MaquinasPrj\\MaquinasPrj\\FrmSetor.cs",
+              "RelativeDocumentMoniker": "MaquinasPrj\\FrmSetor.cs",
+              "ToolTip": "C:\\Heitor\\MaquinasPrj\\MaquinasPrj\\FrmSetor.cs",
+              "RelativeToolTip": "MaquinasPrj\\FrmSetor.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAHsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:56:00.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmSetor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Heitor\\MaquinasPrj\\MaquinasPrj\\FrmSetor.cs",
+              "RelativeDocumentMoniker": "MaquinasPrj\\FrmSetor.cs",
+              "ToolTip": "C:\\Heitor\\MaquinasPrj\\MaquinasPrj\\FrmSetor.cs [Projeto]",
+              "RelativeToolTip": "MaquinasPrj\\FrmSetor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:55:02.784Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

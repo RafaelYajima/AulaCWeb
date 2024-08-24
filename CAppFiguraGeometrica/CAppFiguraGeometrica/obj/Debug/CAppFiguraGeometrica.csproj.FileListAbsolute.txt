@@ -1,0 +1,7 @@
+C:\Heitor\CAppFiguraGeometrica\CAppFiguraGeometrica\bin\Debug\CAppFiguraGeometrica.exe.config
+C:\Heitor\CAppFiguraGeometrica\CAppFiguraGeometrica\bin\Debug\CAppFiguraGeometrica.exe
+C:\Heitor\CAppFiguraGeometrica\CAppFiguraGeometrica\bin\Debug\CAppFiguraGeometrica.pdb
+C:\Heitor\CAppFiguraGeometrica\CAppFiguraGeometrica\obj\Debug\CAppFiguraGeometrica.csproj.AssemblyReference.cache
+C:\Heitor\CAppFiguraGeometrica\CAppFiguraGeometrica\obj\Debug\CAppFiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Heitor\CAppFiguraGeometrica\CAppFiguraGeometrica\obj\Debug\CAppFiguraGeometrica.exe
+C:\Heitor\CAppFiguraGeometrica\CAppFiguraGeometrica\obj\Debug\CAppFiguraGeometrica.pdb

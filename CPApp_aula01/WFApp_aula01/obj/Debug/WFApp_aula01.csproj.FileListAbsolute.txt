@@ -1,0 +1,9 @@
+C:\Heitor\CPApp_aula01\WFApp_aula01\bin\Debug\WFApp_aula01.exe.config
+C:\Heitor\CPApp_aula01\WFApp_aula01\bin\Debug\WFApp_aula01.exe
+C:\Heitor\CPApp_aula01\WFApp_aula01\bin\Debug\WFApp_aula01.pdb
+C:\Heitor\CPApp_aula01\WFApp_aula01\obj\Debug\WFApp_aula01.csproj.AssemblyReference.cache
+C:\Heitor\CPApp_aula01\WFApp_aula01\obj\Debug\WFApp_aula01.Properties.Resources.resources
+C:\Heitor\CPApp_aula01\WFApp_aula01\obj\Debug\WFApp_aula01.csproj.GenerateResource.cache
+C:\Heitor\CPApp_aula01\WFApp_aula01\obj\Debug\WFApp_aula01.csproj.CoreCompileInputs.cache
+C:\Heitor\CPApp_aula01\WFApp_aula01\obj\Debug\WFApp_aula01.exe
+C:\Heitor\CPApp_aula01\WFApp_aula01\obj\Debug\WFApp_aula01.pdb
